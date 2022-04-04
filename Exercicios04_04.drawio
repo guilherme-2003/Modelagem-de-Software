@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-04T23:12:14.383Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="3mUZnWjyHrmSA35IzUm7" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-04T23:30:11.069Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="nMORC11TkRa1I6VyFr8R" version="17.4.0" type="github" pages="2">
   <diagram id="z7mnrNAVXwUUSKZWm4tv" name="Page-1">
     <mxGraphModel dx="2067" dy="1858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,6 +78,20 @@
         </mxCell>
         <mxCell id="ov3n1KNiYPMTHViqGAF2-25" value="1...*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-303" y="-520" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="uB1jGyZl0aDvLDrUhKpE" name="Page-2">
+    <mxGraphModel dx="1578" dy="876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8WoS_qMKlVvMBO30Ixbd-1" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Projeto A3&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="20" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8WoS_qMKlVvMBO30Ixbd-2" value="Realizar a documentação de um sistema: (app, web, e-commerce, .exe)&lt;br&gt;- Sistema que já existe(Grupo deve sugerir melhorias)&amp;nbsp;&lt;br&gt;- Sitema inovador(Grupo cria um sistema inovador)&lt;br&gt;&lt;br&gt;Parte técnica:&lt;br&gt;Princípios ágeis:&lt;br&gt;Itens de Backlog - Citar autores explicando cada termo técnico principal&lt;br&gt;Sprints&lt;br&gt;User Cases&lt;br&gt;&lt;br&gt;Diagramas:&lt;br&gt;Diagtama de Caso de Uso&amp;nbsp;&lt;br&gt;Diagrama de Atividades&lt;br&gt;Diagrama de Classes&lt;br&gt;&lt;br&gt;Banco de Dados:&lt;br&gt;Modelas MER/DER&lt;br&gt;Criar o BD - Demonstrar com script de criação&lt;br&gt;Criação das tabelas&lt;br&gt;Movimentações com dados - Demonstrando através de script&lt;br&gt;&lt;br&gt;Estrutura acadêmica:&lt;br&gt;Capa&lt;br&gt;Sumário&lt;br&gt;Introdução(Problema de pesquisa, objetivos gerais e específicos, justificativa)&lt;br&gt;Desenvolvimento(Toda parte técnica)&lt;br&gt;Conclusão&lt;br&gt;Referências bibliográficas&lt;br&gt;&lt;br&gt;&lt;br&gt;PARA CADA TERMO TÉCNICO, ANTES DE DESENVOLVER DEVE-SE EXPLICAR SUA NECESSIDADE" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="10" y="70" width="960" height="750" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
